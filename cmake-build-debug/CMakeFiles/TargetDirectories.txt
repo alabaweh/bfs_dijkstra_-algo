@@ -1,0 +1,3 @@
+/cygdrive/c/Users/alaba/CLionProjects/bfs_testing_2/cmake-build-debug/CMakeFiles/bfs_testing_2.dir
+/cygdrive/c/Users/alaba/CLionProjects/bfs_testing_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/alaba/CLionProjects/bfs_testing_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
